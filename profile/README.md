@@ -52,18 +52,18 @@ Ser um **ícone global de inovação tecnológica**, referência em inclusão di
 
 ## 🚧 Projetos em Destaque
 
-Acesse todos os projetos diretamente pelo nosso site ou entre em contato conosco.
+Abaixo estão alguns dos projetos mais relevantes que estão em produção ou já disponíveis publicamente:
 
 | Projeto           | Descrição                                                                 |
 |-------------------|---------------------------------------------------------------------------|
-| [**AnimeNexus**](https://animenexusoficial.web.app) | Plataforma para fãs de animes e mangás com navegação avançada e streaming. |
-| [**Nexus Cine**](https://nexuscineoficial.web.app)  | Aplicativo de filmes e séries com visual moderno e suporte a múltiplos players. |
-| [**Truco Tocantins**](https://truco-tocantins.netlify.app) | Jogo online que celebra a cultura regional brasileira. |
-| [**Nexus AI**](https://nexus-ai.netlify.app)        | Solução de inteligência artificial para automação de processos. |
-| [**Nexus Links**](https://nexuslinks.netlify.app)   | Extensão de navegador para gerenciamento de links e produtividade. |
-| [**Nexus Cine TV**](https://nexuscinetv.netlify.app) | Versão otimizada do Nexus Cine para Android TV e Smart TVs. |
-| [**Nexus Games**](https://nexusgamesccg.netlify.app) | Catálogo interativo de jogos para diversas plataformas. |
-| [**Nexus Temas**](https://nexustemas.netlify.app)   | Extensão de temas visuais para melhorar o conforto na navegação. |
+| [**AnimeNexus**](https://anime-mangas-nexus.netlify.app) | Plataforma interativa para fãs de animes e mangás, com recursos avançados de busca e comunidade. |
+| [**Truco Tocantins**](https://play.google.com/store/apps/details?id=ccgstudios.truco_tocantins.app) | Jogo de truco online com temática regional, celebrando a cultura do Tocantins. |
+| [**Nexus Cine**](https://nexus-cine-apk.netlify.app) | Aplicativo de streaming para Android com interface moderna e catálogo diversificado. |
+| [**Nexus Cine TV**](https://nexus-cine-apk.netlify.app) | Streaming otimizado para Android TV, com navegação intuitiva e suporte a 4K. |
+| [**Nexus Games**](#) | Plataforma de indexação de jogos para PC e consoles, com interface amigável. *(em breve)* |
+| [**Nexus Temas**](https://chromewebstore.google.com/detail/nexus-temas-tema-dark-ult/nafebomgijojfjolcblijecngajaenpn?authuser=0&hl=pt-BR) | Tema dark elegante para navegadores, com foco em estética e usabilidade. |
+| [**Nexus Links**](https://chromewebstore.google.com/detail/nexus-links/gopfnnhiellnikihlnnmmfgcgneankmc?authuser=0&hl=pt-BR) | Extensão para gerenciar links de forma prática e organizada. |
+| [**Nexus AI**](#) | Plataforma de IA para automação de tarefas e análise preditiva. *(em produção)* |
 
 ---
 
