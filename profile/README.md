@@ -56,14 +56,14 @@ Acesse todos os projetos diretamente pelo nosso site ou entre em contato conosco
 
 | Projeto           | Descrição                                                                 |
 |-------------------|---------------------------------------------------------------------------|
-| **AnimeNexus**    | Plataforma para fãs de animes e mangás com navegação avançada e streaming. |
-| **Nexus Cine**    | Aplicativo de filmes e séries com visual moderno e suporte a múltiplos players. |
-| **Truco Tocantins** | Jogo online que celebra a cultura regional brasileira.                  |
-| **Nexus AI**      | Solução de inteligência artificial para automação de processos.            |
-| **Nexus Links**   | Extensão de navegador para gerenciamento de links e produtividade.         |
-| **Nexus Cine TV** | Versão otimizada do Nexus Cine para Android TV e Smart TVs.               |
-| **Nexus Games**   | Catálogo interativo de jogos para diversas plataformas.                    |
-| **Nexus Temas**   | Extensão de temas visuais para melhorar o conforto na navegação.           |
+| [**AnimeNexus**](https://animenexusoficial.web.app) | Plataforma para fãs de animes e mangás com navegação avançada e streaming. |
+| [**Nexus Cine**](https://nexuscineoficial.web.app)  | Aplicativo de filmes e séries com visual moderno e suporte a múltiplos players. |
+| [**Truco Tocantins**](https://truco-tocantins.netlify.app) | Jogo online que celebra a cultura regional brasileira. |
+| [**Nexus AI**](https://nexus-ai.netlify.app)        | Solução de inteligência artificial para automação de processos. |
+| [**Nexus Links**](https://nexuslinks.netlify.app)   | Extensão de navegador para gerenciamento de links e produtividade. |
+| [**Nexus Cine TV**](https://nexuscinetv.netlify.app) | Versão otimizada do Nexus Cine para Android TV e Smart TVs. |
+| [**Nexus Games**](https://nexusgamesccg.netlify.app) | Catálogo interativo de jogos para diversas plataformas. |
+| [**Nexus Temas**](https://nexustemas.netlify.app)   | Extensão de temas visuais para melhorar o conforto na navegação. |
 
 ---
 
