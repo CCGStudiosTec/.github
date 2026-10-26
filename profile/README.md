@@ -1,118 +1,223 @@
-# 🚀 CCG Studios
+<div align="center">
 
-Bem-vindo ao repositório oficial da **CCG Studios**, um estúdio criativo de tecnologia focado em transformar ideias ousadas em experiências digitais inesquecíveis. Atuamos no desenvolvimento de soluções modernas que unem inovação, impacto social e excelência técnica.
+<img src="Assets/imagens/logos_cgg/LOGO-1.png" alt="CCG Studios" width="140">
 
-🔗 **Acesse nosso portal**: [Clique aqui ou acesse](https://ccg-studios-company.netlify.app)  
-📩 **Contato oficial**: ccgstudiostec@gmail.com
+# CCG Studios
+
+**Creative Content Group — transformamos ideias ousadas em experiências digitais.**
+
+[![Site](https://img.shields.io/badge/site-online-00c853?style=for-the-badge&logo=netlify&logoColor=white)](https://ccg-studios-company.netlify.app)
+[![Firebase](https://img.shields.io/badge/Firebase-Auth%20%7C%20Firestore%20%7C%20Storage-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+[![GitHub](https://img.shields.io/badge/GitHub-CCGStudiosTec-181717?style=for-the-badge&logo=github)](https://github.com/CCGStudiosTec)
+
+[🌐 Portal](https://ccg-studios-company.netlify.app) ·
+[📱 Apps Hub](https://ccg-studios-company.netlify.app/apps) ·
+[💬 Fórum](https://ccg-studios-company.netlify.app/forum) ·
+[🗺️ Roadmap](https://ccg-studios-company.netlify.app/roadmap) ·
+[🧪 Beta](https://ccg-studios-company.netlify.app/beta) ·
+[📩 Contato](mailto:ccgstudiostec@gmail.com)
+
+</div>
+
+---
+
+## 📑 Sumário
+
+- [Sobre](#-sobre-a-ccg-studios)
+- [Projetos](#-projetos)
+- [O portal](#-o-portal-ccg-studios)
+- [Tecnologias](#-tecnologias)
+- [Estrutura do repositório](#-estrutura-do-repositório)
+- [Rodando localmente](#-rodando-localmente)
+- [Privacidade](#-políticas-de-privacidade)
+- [Equipe](#-equipe)
+- [Contribuindo](#-contribuindo)
 
 ---
 
 ## 🌟 Sobre a CCG Studios
 
-Fundada em **2022**, a **CCG Studios** surge como uma força criativa no cenário tecnológico, misturando **arte, inovação e tecnologia de ponta**. Somos movidos pela ambição de criar produtos digitais que transcendam o convencional, redefinindo padrões de qualidade e conectando comunidades ao redor do mundo.
+Fundada em **2022**, a **CCG Studios** é um estúdio criativo de tecnologia que une **arte, inovação e impacto social**. Desenvolvemos apps, jogos, softwares e sites com foco em **educação, acessibilidade e comunidade**.
 
-Sob a liderança visionária de **Michael Douglas** e **Klaven Castro**, cada projeto é uma declaração de propósito — promover impacto, inclusão e transformação por meio de experiências digitais memoráveis.
+| 🎯 Missão | 🌐 Visão | 💎 Valores |
+|---|---|---|
+| Conectar, inspirar e transformar vidas através da tecnologia, empoderando comunidades e gerando impacto real. | Ser referência global em inovação, inclusão digital e excelência técnica. | **Inovação** · **Colaboração** · **Impacto** · **Acessibilidade** |
 
----
-
-## 🧬 O que nos torna únicos?
-
-A **CCG Studios** vai além de ser uma empresa de desenvolvimento — somos um **hub de inovação**, um **laboratório colaborativo de ideias disruptivas**. Trabalhamos com uma equipe interdisciplinar global que une:
-
-- Desenvolvimento web e mobile
-- Inteligência artificial e automação
-- Design UX/UI centrado no usuário
-- Segurança cibernética e infraestrutura
-
-Com presença estratégica em **5 continentes** e uma comunidade ativa de **+10.000 usuários**, criamos soluções escaláveis, acessíveis e futuristas.
+**Áreas de atuação:** desenvolvimento web e mobile · inteligência artificial e automação · design UX/UI · segurança e infraestrutura.
 
 ---
 
-## 🎯 Nossa Missão
+## 🚀 Projetos
 
-Conectar, inspirar e transformar vidas através da tecnologia. Buscamos desenvolver soluções digitais que não apenas resolvam problemas, mas que **empoderem comunidades**, **estimulem a criatividade** e **gerem impacto real**.
+### 🎮 Jogos
 
----
+| Projeto | Descrição | Status |
+|---|---|---|
+| [**Truco Tocantins**](https://play.google.com/store/apps/details?id=ccgstudios.truco_tocantins.app) | Truco online com temática regional, celebrando a cultura do Tocantins. | ✅ Google Play |
+| **Show do Trilhão** | Jogo de perguntas e respostas com progresso salvo na conta. | ✅ Disponível |
+| [**Atalaia**](pages/atalaia.html) | Sistema anti-trapaça da CCG para jogos e apps — *observa, protege e avisa*. | 🛡️ Novo |
 
-## 🌐 Visão de Futuro
+### 🎬 Entretenimento
 
-Ser um **ícone global de inovação tecnológica**, referência em inclusão digital, excelência técnica e experiências transformadoras. Exploramos constantemente novas fronteiras e desafiamos o status quo para construir um futuro mais humano e conectado.
+| Projeto | Descrição | Status |
+|---|---|---|
+| [**Nexus Cine**](https://nexus-cine-apk.netlify.app) | Streaming para Android com interface moderna e catálogo diversificado. | ✅ Disponível |
+| [**Nexus Cine TV**](https://nexus-cine-apk.netlify.app) | Versão para Android TV, com navegação por controle remoto e suporte a 4K. | ✅ Disponível |
+| [**AnimeNexus**](https://anime-mangas-nexus.netlify.app) | Plataforma para fãs de animes e mangás, com busca avançada e comunidade. | ✅ Online |
+| **Nexus Games** | Indexação de jogos para PC e consoles. | 🔜 Em breve |
 
----
+### 🧰 Produtividade e ferramentas
 
-## 💎 Nossos Valores
+| Projeto | Descrição | Status |
+|---|---|---|
+| **PDFlow** | App para trabalhar com PDFs, sem coleta desnecessária de dados. | ✅ Disponível |
+| **CheckSimples** | Checklists e listas simples, sincronizadas na conta. | ✅ Disponível |
+| [**NexusNet Studio**](pages/NexusNetStudio.html) | Software desktop da linha Nexus. | ✅ Download |
+| [**Nexus Temas**](https://chromewebstore.google.com/detail/nexus-temas-tema-dark-ult/nafebomgijojfjolcblijecngajaenpn) | Tema dark elegante para o navegador. | ✅ Chrome Web Store |
+| [**Nexus Links**](https://chromewebstore.google.com/detail/nexus-links/gopfnnhiellnikihlnnmmfgcgneankmc) | Extensão para organizar e gerenciar links. | ✅ Chrome Web Store |
+| **Nexus AI** | IA para automação de tarefas e análise preditiva. | 🚧 Em produção |
 
-| Valor         | Significado                                                                 |
-|---------------|------------------------------------------------------------------------------|
-| **Inovação**  | Buscamos constantemente antecipar o futuro com soluções ousadas e criativas. |
-| **Colaboração** | Acreditamos na força das ideias compartilhadas para alcançar o extraordinário. |
-| **Impacto**   | Desenvolvemos tecnologia com propósito — para transformar realidades.         |
+### 🏫 Soluções sob medida
 
----
+| Projeto | Cliente | Descrição |
+|---|---|---|
+| **Atividades Não Presenciais** | Escola Almeida Sardinha | Plataforma de entrega e acompanhamento de atividades remotas. |
+| **Porto Vau Turismo** | Porto Vau Turismo | Ferramenta interna para montagem de pacotes de viagem. |
 
-## 🚧 Projetos em Destaque
-
-Abaixo estão alguns dos projetos mais relevantes que estão em produção ou já disponíveis publicamente:
-
-| Projeto           | Descrição                                                                 |
-|-------------------|---------------------------------------------------------------------------|
-| [**AnimeNexus**](https://anime-mangas-nexus.netlify.app) | Plataforma interativa para fãs de animes e mangás, com recursos avançados de busca e comunidade. |
-| [**Truco Tocantins**](https://play.google.com/store/apps/details?id=ccgstudios.truco_tocantins.app) | Jogo de truco online com temática regional, celebrando a cultura do Tocantins. |
-| [**Nexus Cine**](https://nexus-cine-apk.netlify.app) | Aplicativo de streaming para Android com interface moderna e catálogo diversificado. |
-| [**Nexus Cine TV**](https://nexus-cine-apk.netlify.app) | Streaming otimizado para Android TV, com navegação intuitiva e suporte a 4K. |
-| [**Nexus Games**](#) | Plataforma de indexação de jogos para PC e consoles, com interface amigável. *(em breve)* |
-| [**Nexus Temas**](https://chromewebstore.google.com/detail/nexus-temas-tema-dark-ult/nafebomgijojfjolcblijecngajaenpn?authuser=0&hl=pt-BR) | Tema dark elegante para navegadores, com foco em estética e usabilidade. |
-| [**Nexus Links**](https://chromewebstore.google.com/detail/nexus-links/gopfnnhiellnikihlnnmmfgcgneankmc?authuser=0&hl=pt-BR) | Extensão para gerenciar links de forma prática e organizada. |
-| [**Nexus AI**](#) | Plataforma de IA para automação de tarefas e análise preditiva. *(em produção)* |
-
----
-
-## 👨‍💻 Fundadores
-
-- **Michael Douglas** – Full Stack Developer, idealizador do AnimeNexus  
-  🔗 [github.com/MichaelDouglasCA](https://github.com/MichaelDouglasCA)
-
-- **Klaven Castro** – Desenvolvedor Web e Analista de Projetos  
-  🔗 [github.com/Klayverq](https://github.com/Klayverq)
+> 💡 O catálogo completo e sempre atualizado fica no **[Apps Hub](https://ccg-studios-company.netlify.app/apps)**.
 
 ---
 
-## 🧠 Equipe Técnica
+## 🖥️ O portal CCG Studios
 
-| Nome               | Área de Especialização         | GitHub                                    |
-|--------------------|--------------------------------|--------------------------------------------|
-| **Vitor Marques**  | Arquiteto de Soluções          | [VitorMarques54](https://github.com/VitorMarques54) |
-| **Igor Gabrod**    | Engenheiro de Sistemas         | [IgorGabrod](https://github.com/IgorGabrod) |
-| **Pedro Henrique** | Back-End Developer             | [PzinDev](https://github.com/PzinDev)       |
-| **Edson Lopes**    | UI/UX Designer & Front-End Dev | [3d5onLP](https://github.com/3d5onLP)       |
-| **Eduardo**        | DevOps & Infraestrutura        | [Imp3rad](https://github.com/Imp3rad)       |
+Este repositório é o código do site oficial — vitrine e hub da comunidade:
 
----
+- **Apps Hub** — catálogo de apps, jogos, softwares e sites, alimentado em tempo real pelo Firestore.
+- **Fórum** — tópicos e respostas da comunidade.
+- **Roadmap** — o que vem por aí nos projetos.
+- **Programa Beta** — teste novidades antes de todo mundo.
+- **Pedidos** — solicite um projeto para a CCG.
+- **Contas e perfis** — login com Google, perfil público, atividades e notificações.
+- **Painel administrativo** — gestão de apps, anúncios, moderação, cargos e conteúdo do site.
 
-## 🧰 Tecnologias que Usamos
-
-- **Frontend**: Angular, Ionic, TypeScript, JavaScript, HTML5, CSS3  
-- **Backend**: Firebase, Firestore, Node.js, Cloud Functions  
-- **Design & UI**: Figma, Bootstrap, TailwindCSS, AOS, Animate.css  
-- **Infraestrutura**: GitHub Actions, CI/CD, Firebase Hosting  
-- **Inteligência Artificial**: Algoritmos de aprendizado, automação e análise preditiva
+**Atalhos:** `/apps` · `/forum` · `/roadmap` · `/beta` · `/solicitar` · `/conta` · `/login`
 
 ---
 
-## 🤝 Quer colaborar com a CCG Studios?
+## 🧪 Tecnologias
 
-Se você compartilha da nossa paixão por inovação e deseja contribuir, entre em contato ou envie um pull request!
+| Camada | Ferramentas |
+|---|---|
+| **Frontend** | HTML5, CSS3, JavaScript (ES Modules), Bootstrap 5.3, AOS, Animate.css, Font Awesome |
+| **Backend** | Firebase Authentication, Cloud Firestore, Firebase Storage, EmailJS |
+| **Segurança** | Firestore/Storage Rules, cabeçalhos CSP via Netlify |
+| **Hospedagem** | Netlify (site) e Firebase |
+| **Nos projetos** | Angular, Ionic, TypeScript, Node.js, Cloud Functions, Figma, TailwindCSS |
 
-📩 **E-mail**: ccgstudiostec@gmail.com  
-🔗 **Site**: [Clique aqui para acessar](https://ccg-studios-company.netlify.app)
+---
+
+## 📂 Estrutura do repositório
+
+```
+CCG-STUDIOS/
+├── index.html              # Página inicial
+├── contato.html            # Contato
+├── 404.html                # Página de erro
+├── pages/                  # Apps Hub, fórum, roadmap, beta, conta, login...
+│   └── politicas/          # Políticas de privacidade de cada projeto
+├── pages_admin/            # Painel administrativo
+├── Assets/
+│   ├── scripts/            # Módulos JS (auth, Firebase, hub, fórum, admin...)
+│   ├── styles/             # CSS das páginas
+│   └── imagens/ videos/    # Mídia e logos dos projetos
+├── firestore.rules         # Regras de segurança do Firestore
+├── storage.rules           # Regras de segurança do Storage
+├── firebase.json
+└── netlify.toml            # Redirects e cabeçalhos de segurança
+```
+
+---
+
+## ⚙️ Rodando localmente
+
+Site estático — não precisa de build.
+
+```bash
+git clone https://github.com/MichaelDouglasCA/CCG-STUDIOS.git
+cd CCG-STUDIOS
+npx serve .        # ou a extensão Live Server do VS Code
+```
+
+> Os scripts usam ES Modules, então abra por um servidor local (não via `file://`).
+
+Para publicar as regras do Firebase:
+
+```bash
+firebase deploy --only firestore:rules,storage
+```
+
+---
+
+## 🔒 Políticas de privacidade
+
+| Projeto | Política |
+|---|---|
+| Plataforma CCG Studios | [ccg-studios](pages/politicas/ccg-studios.html) |
+| Truco Tocantins | [truco-tocantins](pages/politicas/truco-tocantins.html) |
+| Show do Trilhão | [show-do-trilhao](pages/politicas/show-do-trilhao.html) |
+| Nexus Cine | [nexus-cine](pages/politicas/nexus-cine.html) |
+| PDFlow | [pdflow](pages/politicas/pdflow.html) |
+| CheckSimples | [checksimples](pages/politicas/checksimples.html) |
+| Atividades Não Presenciais | [atividades-nao-presenciais](pages/politicas/atividades-nao-presenciais.html) |
+| Porto Vau Turismo | [porto-vau-turismo](pages/politicas/porto-vau-turismo.html) |
+
+Termos de uso gerais: [pages/termos.html](pages/termos.html)
+
+---
+
+## 👥 Equipe
+
+### Fundadores
+
+| | Nome | Papel |
+|---|---|---|
+| <img src="https://github.com/MichaelDouglasCA.png" width="60"> | **Michael Douglas** | Full Stack Developer · [@MichaelDouglasCA](https://github.com/MichaelDouglasCA) |
+| <img src="https://github.com/Klayverq.png" width="60"> | **Klaven Castro** | Desenvolvedor Web e Analista de Projetos · [@Klayverq](https://github.com/Klayverq) |
+
+### Equipe técnica
+
+| Nome | Área | GitHub |
+|---|---|---|
+| **Vitor Marques** | Arquiteto de Soluções | [@VitorMarques54](https://github.com/VitorMarques54) |
+| **Igor Gabrod** | Engenheiro de Sistemas | [@IgorGabrod](https://github.com/IgorGabrod) |
+| **Pedro Henrique** | Back-End Developer | [@PzinDev](https://github.com/PzinDev) |
+| **Edson Lopes** | UI/UX Designer & Front-End | [@3d5onLP](https://github.com/3d5onLP) |
+| **Eduardo** | DevOps & Infraestrutura | [@Imp3rad](https://github.com/Imp3rad) |
+
+---
+
+## 🤝 Contribuindo
+
+1. Faça um fork do repositório
+2. Crie uma branch: `git checkout -b minha-melhoria`
+3. Commit: `git commit -m "feat: minha melhoria"`
+4. Abra um Pull Request
+
+Quer um projeto feito pela CCG? Use a página **[Solicitar projeto](https://ccg-studios-company.netlify.app/solicitar)** ou escreva para **ccgstudiostec@gmail.com**.
 
 ---
 
 ## 📜 Licença
 
-Este repositório está licenciado sob a **Licença MIT**. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
+Distribuído sob a **Licença MIT**.
 
 ---
 
-> **Transformamos ideias em experiências. Conectamos tecnologia com propósito. Somos a CCG Studios.**
+<div align="center">
 
+**Transformamos ideias em experiências. Conectamos tecnologia com propósito.**
+
+© 2022–2026 CCG Studios
+
+</div>
