@@ -117,48 +117,6 @@ Este repositório é o código do site oficial — vitrine e hub da comunidade:
 
 ---
 
-## 📂 Estrutura do repositório
-
-```
-CCG-STUDIOS/
-├── index.html              # Página inicial
-├── contato.html            # Contato
-├── 404.html                # Página de erro
-├── pages/                  # Apps Hub, fórum, roadmap, beta, conta, login...
-│   └── politicas/          # Políticas de privacidade de cada projeto
-├── pages_admin/            # Painel administrativo
-├── Assets/
-│   ├── scripts/            # Módulos JS (auth, Firebase, hub, fórum, admin...)
-│   ├── styles/             # CSS das páginas
-│   └── imagens/ videos/    # Mídia e logos dos projetos
-├── firestore.rules         # Regras de segurança do Firestore
-├── storage.rules           # Regras de segurança do Storage
-├── firebase.json
-└── netlify.toml            # Redirects e cabeçalhos de segurança
-```
-
----
-
-## ⚙️ Rodando localmente
-
-Site estático — não precisa de build.
-
-```bash
-git clone https://github.com/MichaelDouglasCA/CCG-STUDIOS.git
-cd CCG-STUDIOS
-npx serve .        # ou a extensão Live Server do VS Code
-```
-
-> Os scripts usam ES Modules, então abra por um servidor local (não via `file://`).
-
-Para publicar as regras do Firebase:
-
-```bash
-firebase deploy --only firestore:rules,storage
-```
-
----
-
 ## 🔒 Políticas de privacidade
 
 | Projeto | Política |
