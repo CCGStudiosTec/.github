@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Assets/imagens/logos_cgg/LOGO-1.png" alt="CCG Studios" width="140">
+<img src="https://ccg-studios-company.netlify.app/favicon_io/android-chrome-512x512.png" alt="CCG Studios" width="140">
 
 # CCG Studios
 
